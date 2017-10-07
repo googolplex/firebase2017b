@@ -1,0 +1,36 @@
+{
+  "clientes" : {
+    "25000" : {
+      "nombre" : "pepe galera",
+      "direccion" : "calle 1 esquina calle2",
+      "telefono" : "123456"
+    },
+    "25001" : {
+      "nombre" : "maria bonita",
+      "direccion" : "calle 3 esquina calle4",
+      "telefono" : "624444"
+    },
+    "25002" : {
+      "nombre" : "buen pagador",
+      "direccion" : "calle 5 esquina calle 6",
+      "telefono" : "585858"
+    }
+  },
+  "facturas" : {
+    "25000" : {
+      "nombre" : "pepe galera",
+      "direccion" : "calle 1 esquina calle2",
+      "telefono" : "123456"
+    },
+    "25001" : {
+      "nombre" : "maria bonita",
+      "direccion" : "calle 3 esquina calle4",
+      "telefono" : "624444"
+    },
+    "25002" : {
+      "nombre" : "buen pagador",
+      "direccion" : "calle 5 esquina calle 6",
+      "telefono" : "585858"
+    }
+  }
+}
